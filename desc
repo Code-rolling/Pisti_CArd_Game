@@ -1,0 +1,7 @@
+Tanımı:
+Pişti, iki kişiyle oynanır. Amaç yerdeki değerli kartları toplayarak rakibinden fazla puan elde etmektir. Oyun başlangıcında, masaya ve her oyuncuya 4 tane kart verilir ve masadaki en üstte duran kart açılır. Daha sonra önceden oynaması belirlenmiş oyuncu yere kart atarak oyuna başlar, sırayla kart atılarak devam eder. Oyuncuların elindeki kart biterse, desteden 4 tane kart alarak oynamaya devam eder. Destede kart bitene ve en az bir oyuncunun elindeki kartlar bitene kadar oyun sürer. 
+Yerdeki kartların toplanabilmesi için iki koşul vardır;
+1-	Yerdeki kartın değeriyle, atılan kartın değeri aynı olmalıdır.
+2-	Atılan kartın değeri VALE olmalıdır.
+Kartlar sahiplenildikten sonra bir kenara (envanter) ayrılır ve oyun bitene kadar bu kartlar kullanılmaz. Ancak kartları alan oyuncu, ileride ne tür kartların karşısına çıkabileceği ihtimalini düşünmek için envanterindeki kartlara bakabilir.
+Bunun dışında, oyuna adını veren pişti durumu vardır. Eğer masada sadece bir kart varsa ve atılan kart ile oyuncunun eline geçerse buna Pişti denir. Piştiyi yapan oyuncu oyunun sonunda puan toplamak için bunu hatırlamalıdır. Eğer pişti yapılan masadaki kart VALE ise (VALE’yi sadece VALE alabilir) o zaman buna Duble Pişti denir. Puan toplamada aynı şekilde bu da kullanılır.
